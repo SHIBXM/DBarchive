@@ -1,0 +1,24 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "capstone project for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SHIBXM/DBarchive.git"
+  },
+  "keywords": [
+    "dragon",
+    "Balls"
+  ],
+  "author": "shibam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHIBXM/DBarchive/issues"
+  },
+  "homepage": "https://github.com/SHIBXM/DBarchive#readme"
+}
