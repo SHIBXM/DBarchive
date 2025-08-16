@@ -8,4 +8,8 @@ import connectDB from './db/dbIndex.js';
 
 
 connectDB()
+.then(() => {
+  
+})
+
 
